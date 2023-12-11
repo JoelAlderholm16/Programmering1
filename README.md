@@ -1,5 +1,7 @@
 # loggbok
 
+Vecka 50, idag så jobbade jag med samma som förra veckan eftersom att jag var sjuk på torsdagen.
+
 Vecka 49, idag så jobbade jag med att plugga på test 5 och test 6.
 
 Vecka 48, idag så jobbar jag med funktioner och pluggar inför test 4 och 6.
